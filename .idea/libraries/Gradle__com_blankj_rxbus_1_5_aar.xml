@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.blankj:rxbus:1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/facbbbd7836447986482af3e722015f7/rxbus-1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/facbbbd7836447986482af3e722015f7/rxbus-1.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/rxbus/1.5/142ef7ba27c8e8360576cd02a27fee4a688eb751/rxbus-1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/rxbus/1.5/2e4f2e7cae17eeef1f0bcf08837f9a73912c678b/rxbus-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

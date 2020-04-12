@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmSample</string>
+    <string name="app_1">1</string>
+    <string name="app_2">2</string>
+</resources>

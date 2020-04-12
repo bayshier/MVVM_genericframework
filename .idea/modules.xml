@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVVM_genericframework.iml" filepath="$PROJECT_DIR$/MVVM_genericframework.iml" group="MVVM_genericframework" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MVVM_genericframework/app" />
+      <module fileurl="file://$PROJECT_DIR$/lib_base/lib_base.iml" filepath="$PROJECT_DIR$/lib_base/lib_base.iml" group="MVVM_genericframework/lib_base" />
+      <module fileurl="file://$PROJECT_DIR$/lib_common/lib_common.iml" filepath="$PROJECT_DIR$/lib_common/lib_common.iml" group="MVVM_genericframework/lib_common" />
+      <module fileurl="file://$PROJECT_DIR$/lib_toolbar/lib_toolbar.iml" filepath="$PROJECT_DIR$/lib_toolbar/lib_toolbar.iml" group="MVVM_genericframework/lib_toolbar" />
+      <module fileurl="file://$PROJECT_DIR$/lib_webView/lib_webView.iml" filepath="$PROJECT_DIR$/lib_webView/lib_webView.iml" group="MVVM_genericframework/lib_webView" />
+      <module fileurl="file://$PROJECT_DIR$/module_login/module_login.iml" filepath="$PROJECT_DIR$/module_login/module_login.iml" group="MVVM_genericframework/module_login" />
+      <module fileurl="file://$PROJECT_DIR$/module_mine/module_mine.iml" filepath="$PROJECT_DIR$/module_mine/module_mine.iml" group="MVVM_genericframework/module_mine" />
+    </modules>
+  </component>
+</project>

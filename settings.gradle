@@ -1,0 +1,7 @@
+include ':app',//宿主工程
+        ':lib_base',
+        ':lib_common',
+        ':lib_toolbar',
+        ':lib_webView',
+        ':module_login',
+        ':module_mine'
